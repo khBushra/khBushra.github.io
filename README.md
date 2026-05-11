@@ -39,7 +39,7 @@ This website highlights:
 
 ## Publications
 Author of 30+ peer-reviewed publications in climate science, atmospheric sciences, remote sensing, and environmental systems published in international journals 
-including *Remote Sensing*, *Scientific Reports*, and *Atmosphere*. :contentReference[oaicite:3]{index=3}
+including *Remote Sensing*, *Scientific Reports*, and *Atmosphere*. 
 
 ## Leadership & Service
 - Guest Editor for international journals
