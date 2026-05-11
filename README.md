@@ -4,13 +4,13 @@ Welcome to the official academic and professional website of Dr. Bushra Khalid.
 
 ## About
 Dr. Bushra Khalid is a climate scientist and researcher with more than 10 years of international research and professional experience in climate variability, atmospheric processes, environmental systems, 
-and climate resilience. Her work integrates climate science, remote sensing, geospatial analytics, and policy-relevant environmental research. :contentReference[oaicite:0]{index=0}
+and climate resilience. Her work integrates climate science, remote sensing, geospatial analytics, and policy-relevant environmental research. 
 
 She currently serves as Deputy Manager (Climate Sciences) at the National Disaster Management Authority (NDMA), Pakistan, where she contributes to climate risk assessments, resilience strategies, 
-and interdisciplinary climate initiatives. :contentReference[oaicite:1]{index=1}
+and interdisciplinary climate initiatives. 
 
 Previously, she worked as a Research Scientist at the Chinese Academy of Sciences (CAS), China, and as a Postdoctoral Researcher at the International Institute for Applied Systems Analysis (IIASA), Austria. 
-Her international research experience spans climate-environment interactions, aerosol-climate modeling, climate-health nexus, and sustainable development research. :contentReference[oaicite:2]{index=2}
+Her international research experience spans climate-environment interactions, aerosol-climate modeling, climate-health nexus, and sustainable development research. 
 
 ## Research Interests
 - Climate Extremes and Variability
